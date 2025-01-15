@@ -19,6 +19,7 @@ git https://github.com/introverted-programmer/GTAL/tree/master/GTAL.git
 cd GTAL
 ```
 2、创建虚拟环境并激活
+
 3、安装依赖
 
 ## 数据准备
