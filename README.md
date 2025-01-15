@@ -29,8 +29,8 @@ data/
 │   ├── source.txt  # 源语言文本
 │   └── target.txt  # 目标语言文本
 ├── bpe/
-│   ├── source.bpe  # 源语言文本
-│   └── target.bpe  # 目标语言文本
+│   ├── source.bpe 
+│   └── target.bpe
 ├── val/
 │   ├── source.txt
 │   └── target.txt
@@ -39,7 +39,8 @@ data/
     └── target.txt
 ```
 
-2、数据预处理
+2、数据预处理：
+清洗、bpe分词等
 
 ## 模型训练
 1、配置训练参数：
